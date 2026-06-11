@@ -3039,3 +3039,10 @@ ul.pstr_rating {
 .header-area.sticky .abarie-logo{color:#111;}
 .header-area.sticky .abarie-logo span{color:#e2a750;}
 .footer-area a[href="#"]{cursor:default;}
+
+/* ── Abarie background image overrides ── */
+.bg-1 { background-image: url("https://abarie.pages.dev/images/abarie-hero-1.webp") !important; }
+.bg-2 { background-image: url("https://abarie.pages.dev/images/abarie-hero-2.webp") !important; background-attachment: fixed; }
+.bg-3 { background-image: url("https://abarie.pages.dev/images/abarie-stage.webp") !important; }
+.bg-4 { background-image: url("https://abarie.pages.dev/images/abarie-hero-2.webp") !important; }
+.bg-5 { background-image: url("https://abarie.pages.dev/images/abarie-stage.webp") !important; }
